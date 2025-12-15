@@ -18,7 +18,7 @@ CRP_556_Final/
 ├── outputs/              		# CSV summaries
 ├── CRP_556_Final.aprx     		# ArcGIS Pro project
 ├── CRP_556_Final.atbx     		# Toolbox reference
-└── README.txt				# I Feel this doesnt need an explanation
+└── README.txt					# I Feel this doesnt need an explanation
 Data Used by the Toolbox
 ===================================================================================================
 How to Run
