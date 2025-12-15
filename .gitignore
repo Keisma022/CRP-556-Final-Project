@@ -1,22 +1,38 @@
+#---------
 # ArcGIS
+#---------
+
 *.gdb/
 *.lock
 *.sr.lock
 Index/
 ImportLog/
 GpMessages/
+*.aprx
 
+#---------
 # Outputs
+#---------
+
 maps/
 outputs/
 
+#------------------
 # Large raster data
+#------------------
+
 data/NLCD_FctImp/
 
+#-------------
 # Python cache
+#-------------
+
 __pycache__/
 *.pyc
 
+#------
 # OS
+#------
+
 .DS_Store
 Thumbs.db
