@@ -38,10 +38,9 @@ Instructions:
 
 NLCD Impervious Surface Data (Not included in GitHub)
 NLCD impervious surface rasters are not stored in this GitHub repository due to file size.
-
-Box download link: ***https://iastate.box.com/s/3ep9e483br15tx05yr4i8el17fnv31iu***
-
 They can be downloaded from the official MRLC/NLCD website: ***https://www.mrlc.gov/***
+
+ArcGIS Pro File download link: ***https://iastate.box.com/s/3ep9e483br15tx05yr4i8el17fnv31iu***
 
 The toolbox expects NLCD impervious rasters following this naming pattern:
 ***Annual_NLCD_FctImp_{year}_CU_C1V1.tif***
