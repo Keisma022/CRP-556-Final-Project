@@ -11,17 +11,6 @@ Overview
 This project is an ArcGIS Pro Python Toolbox that automates the analysis and mapping of impervious surface change for cities using NLCD Impervious Surface raster data.
 The workflow clips NLCD rasters to a city boundary, computes change between years, classifies change magnitude, and exports maps and CSV summaries.
 
---------------------------------------------------------------------------------------
-Folder Structure
---------------------------------------------------------------------------------------
-
-CRP_556_Final/
-├── src/
-│   └── NLCD_Imperv_Change.pyt
-├── data/
-│   └── boundaries/
-├── README.md
-└── .gitignore
 
 -------------------------------------------------------------------------------------
 Data & ArcGIS Project Files (Hosted Externally 
@@ -38,7 +27,7 @@ Instructions:
 
 NLCD Impervious Surface Data (Not included in GitHub)
 NLCD impervious surface rasters are not stored in this GitHub repository due to file size.
-They can be downloaded from the official MRLC/NLCD website: ***https://www.mrlc.gov/***
+They can be downloaded from the official MRLC/NLCD website: ***https://www.mrlc.gov/data?cookiesession8341=7274460B45F7AD0FA755ED829F75975C***
 
 ArcGIS Pro File download link: ***https://iastate.box.com/s/3ep9e483br15tx05yr4i8el17fnv31iu***
 
